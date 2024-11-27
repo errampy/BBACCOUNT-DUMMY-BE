@@ -1,0 +1,163 @@
+{
+    "app_registration": {
+        "app_name": "financial_department"
+    },
+    "model_registrations": [
+        {
+            "app_name": "financial_department",
+            "model_name": "LoanLossProvision",
+            "self_authorized": true,
+            "same_user_authorized": false
+        },
+        {
+            "app_name": "aging_reports",
+            "model_name": "LoanAging",
+            "self_authorized": true,
+            "same_user_authorized": false
+        },
+        {
+            "app_name": "aging_reports",
+            "model_name": "AccountsReceivableAging",
+            "self_authorized": true,
+            "same_user_authorized": false
+        },
+        {
+            "app_name": "administration_department",
+            "model_name": "OfficeExpense",
+            "self_authorized": true,
+            "same_user_authorized": false
+        },
+        {
+            "app_name": "financial_department",
+            "model_name": "BalanceSheet",
+            "self_authorized": true,
+            "same_user_authorized": false
+        },
+        {
+            "app_name": "human_resources_department",
+            "model_name": "LeaveManagement",
+            "self_authorized": true,
+            "same_user_authorized": false
+        },
+        {
+            "app_name": "financial_department",
+            "model_name": "IncomeStatement",
+            "self_authorized": true,
+            "same_user_authorized": false
+        },
+        {
+            "app_name": "marketingand_customer_relations_department",
+            "model_name": "CustomerSatisfaction",
+            "self_authorized": true,
+            "same_user_authorized": false
+        },
+        {
+            "app_name": "financial_department",
+            "model_name": "CashFlowStatement",
+            "self_authorized": true,
+            "same_user_authorized": false
+        },
+        {
+            "app_name": "riskand_compliance_department",
+            "model_name": "Compliance",
+            "self_authorized": true,
+            "same_user_authorized": false
+        },
+        {
+            "app_name": "operations_department",
+            "model_name": "LoanDisbursement",
+            "self_authorized": true,
+            "same_user_authorized": false
+        },
+        {
+            "app_name": "operations_department",
+            "model_name": "PortfolioQuality",
+            "self_authorized": true,
+            "same_user_authorized": false
+        },
+        {
+            "app_name": "human_resources_department",
+            "model_name": "StaffProductivity",
+            "self_authorized": true,
+            "same_user_authorized": false
+        },
+        {
+            "app_name": "administration_department",
+            "model_name": "AssetManagement",
+            "self_authorized": true,
+            "same_user_authorized": false
+        },
+        {
+            "app_name": "riskand_compliance_department",
+            "model_name": "FraudMonitoring",
+            "self_authorized": true,
+            "same_user_authorized": false
+        },
+        {
+            "app_name": "marketingand_customer_relations_department",
+            "model_name": "ClientAcquisition",
+            "self_authorized": true,
+            "same_user_authorized": false
+        },
+        {
+            "app_name": "riskand_compliance_department",
+            "model_name": "RiskAssessment",
+            "self_authorized": true,
+            "same_user_authorized": false
+        },
+        {
+            "app_name": "human_resources_department",
+            "model_name": "TrainingDevelopment",
+            "self_authorized": true,
+            "same_user_authorized": false
+        },
+        {
+            "app_name": "itand_misdepartment",
+            "model_name": "DataAccuracy",
+            "self_authorized": true,
+            "same_user_authorized": false
+        },
+        {
+            "app_name": "operations_department",
+            "model_name": "ClientOutreach",
+            "self_authorized": true,
+            "same_user_authorized": false
+        },
+        {
+            "app_name": "itand_misdepartment",
+            "model_name": "SystemUptime",
+            "self_authorized": true,
+            "same_user_authorized": false
+        },
+        {
+            "app_name": "operations_department",
+            "model_name": "BranchPerformance",
+            "self_authorized": true,
+            "same_user_authorized": false
+        },
+        {
+            "app_name": "marketingand_customer_relations_department",
+            "model_name": "FeedbackAndComplaints",
+            "self_authorized": true,
+            "same_user_authorized": false
+        },
+        {
+            "app_name": "administration_department",
+            "model_name": "LogisticsAndFleetManagement",
+            "self_authorized": true,
+            "same_user_authorized": false
+        },
+        {
+            "app_name": "human_resources_department",
+            "model_name": "StaffTurnover",
+            "self_authorized": true,
+            "same_user_authorized": false
+        },
+        {
+            "app_name": "itand_misdepartment",
+            "model_name": "ITTicketResolution",
+            "self_authorized": true,
+            "same_user_authorized": false
+        }
+    ]
+}
